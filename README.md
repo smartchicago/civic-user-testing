@@ -5,7 +5,7 @@ This repository is meant to document the effort by the Smart Chicago Collaborati
 This effort is being made open source so that other communities can see what we are doing and learn from our successes and mistakes. The majority of this documentation will be located in the wiki. 
 
 ## Screenshot 
-![Screenshot of Civic User Testing Group Website ](https://github.com/smartchicago/civic-user-testing/blob/master/cutpit.png "Civic User Testing Group Website")
+![Screenshot of Civic User Testing Group Website ](https://raw.github.com/smartchicago/civic-user-testing/master/cutpic.png)
 
 ## Usage
 
