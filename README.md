@@ -1,6 +1,6 @@
 # Civic User Testing
 
-This repository is meant to chronical the effort by the Smart Chicago Collaborative to implement user testing for civic apps in the Chicago area. 
+This repository is meant to document the effort by the Smart Chicago Collaborative to implement user testing for civic apps in the Chicago area. 
 
 This effort is being made open source so that other communities can see what we are doing and learn from our successes and mistakes. The majority of this documentation will be located in the wiki. 
 
