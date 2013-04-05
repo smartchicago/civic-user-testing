@@ -1,0 +1,55 @@
+# Go2School 
+By [@TomKompare](https://github.com/tkompare) 
+
+Links to [Live Application](https://cps.go2school.org) & [GitHub Repository](https://github.com/tkompare/go2school)
+
+## Developer
+
+Tom Kompare 
+Email: tom@kompare.us 
+Individual
+
+### About the application
+Help parents and students plan their trip to school. Using Google Maps API and "safe locations" data from the state, city, and Chicago Public Schools, the safest route may be planned. 
+
+### Key features:
+1. School schedule display: Is there school today and tomorrow? 
+2. Start and end times for each school.
+3. Knowing when to walk out the door to get there on time.
+4. Multiple suggested routes. 
+5. Route alterations via drag and drop.
+6. Ability to call the school with teh click of a button on smartphones. 
+7. "Leave now" option with times based on current traffic conditions [yet to be built].
+
+### What do you want from user testing?
+1. Performance on mobile screen devices: mostly concerned with Andriod devices. I have extensively tested with iPhone.
+2. Should work on most ""modern"" browsers, including IE8.
+3. Feedback on logical progression on entering information.
+4. Should returning users be presented with directions without hitting the ""Go"" button?
+5. Is there a desire to choose more than just ""today or tomorrow""?
+6. What is unexpected by or confuses users? Is the interaction a smooth experience?
+7. Was the confusion a show-stopper or easily overcome?
+8. What types of help information is desired? What would they tell to other users?
+9. Do users think this web app is helpful in planning a safe route to school?
+
+## Screenshots
+
+![Screenshot of Go2School Starting Point](https://raw.github.com/smartchicago/civic-user-testing/master/go2school/go2schoolstart.png)
+
+Start screen where users enter the name of the school they are interested in.
+
+![Screenshot of Go2School Starting Point](https://raw.github.com/smartchicago/civic-user-testing/master/go2school/go2school1.png)
+
+User enters what time they want to arrive.
+
+![Screenshot of Go2School Starting Point](https://raw.github.com/smartchicago/civic-user-testing/master/go2school/go2school2.png)
+
+App verifies information, also gives user sick call number.
+
+![Screenshot of Go2School Starting Point](https://raw.github.com/smartchicago/civic-user-testing/master/go2school/go2school3.png)
+
+App asks the user how they want to go to the school.
+
+![Screenshot of Go2School Starting Point](https://raw.github.com/smartchicago/civic-user-testing/master/go2school/go2schooldirections.png)
+
+Screen giving directions to the user.
