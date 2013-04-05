@@ -36,6 +36,15 @@ For questions regarding the Civic User Testing Group or the Smart Chicago Collab
 [Civic User Testing Site Repository](https://github.com/smartchicago/cutgroup)
 
 [App used for registration](https://github.com/smartchicago/cutgroup-signups)
+
+## Apps currently in testing
+
+### Go2School
+[Go2School](http://cps.go2school.org/) 
+By @TomKompare
+
+[GitHub Repo:](https://github.com/tkompare/go2school) 
+
 ## License 
 
 This work is licensed under a Creative Commons Attribution 3.0 Unported License.
