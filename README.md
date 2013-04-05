@@ -40,10 +40,9 @@ For questions regarding the Civic User Testing Group or the Smart Chicago Collab
 ## Apps currently in testing
 
 ### Go2School
-[Go2School](http://cps.go2school.org/) 
-By @TomKompare
+[Go2School](http://cps.go2school.org/) by [@TomKompare](https://github.com/tkompare/)
 
-[GitHub Repo:](https://github.com/tkompare/go2school) 
+You can find the [GitHub Repo for Go2School](https://github.com/tkompare/go2school) here.
 
 ## License 
 
